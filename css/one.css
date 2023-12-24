@@ -1,0 +1,50 @@
+#one_container {
+    padding: 100px;
+}
+
+#one_header {
+    margin-bottom: 150px;
+}
+
+#one_user {
+    display: none; /*暂时隐藏*/
+}
+#one_user:active, #one_user:hover, #one_user:visited {
+    color: #fff;
+    text-decoration: none;
+}
+
+body.one_theme_blue {
+    background-color: midnightblue;
+    /* background-image: url(../images/bg.jpg); */
+}
+
+body.one_theme_blue #one_header {
+    color: white;
+}
+
+.one_clear {
+    clear: both;
+}
+.one_tile {
+    display: none;
+}
+
+/* override */
+.tiles-grid {
+    margin-right: 50px;
+}
+
+.tiles-group:before {
+    color: #fff;
+    opacity: 0;
+    /* display: none; */
+}
+.one-tiles-group:before {
+    transition: opacity 3s ease-in;
+    opacity: 1;
+}
+
+.one-tiles-group .countdown{
+    font-size: 3.5rem;
+}

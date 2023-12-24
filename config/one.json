@@ -1,0 +1,192 @@
+{
+    "user": "User",
+    "main_tiles": {
+        "title": "快速访问",
+        "width": 6,
+        "items": [
+            {
+                "title" : "GitHub",
+                "icon" : "images/icons/github.png",
+                "color" : "indigo",
+                "size" : "wide",
+                "url" : "http://www.github.com",
+                "tips": "探索代码的世界"
+            },
+            {
+                "title" : "百度一下",
+                "icon" : "images/icons/baidu.png",
+                "color" : "#2932E1",
+                "size" : "medium",
+                "url" : "http://www.baidu.com",
+                "tips": "求助的方式是一种思考"
+            },
+            {
+                "title" : "Google",
+                "icon" : "images/icons/google.png",
+                "color" : "quartz",
+                "size" : "medium",
+                "url" : "http://www.google.com",
+                "tips": "一问便知"
+            },
+            {
+                "title" : "CSDN",
+                "icon" : "images/icons/csdn.png",
+                "color" : "#F75000",
+                "size" : "medium",
+                "url" : "https://www.csdn.net",
+                "tips": "专业开发者社区"
+            },
+            {
+                "title" : "知乎",
+                "icon" : "images/icons/zhihu.png",
+                "color" : "#2932E1",
+                "size" : "medium",
+                "url" : "https://www.zhihu.com",
+                "tips": "有问题，就会有答案"
+            },
+            {
+                "title" : "腾讯视频",
+                "icon" : "images/icons/txsp.png",
+                "color" : "#ff9933",
+                "size" : "medium",
+                "url" : "https://v.qq.com/",
+                "tips": "不负好时光"
+            },
+            {
+                "title" : "",
+                "icon" : "images/icons/bilibili.png",
+                "color" : "#1296db",
+                "size" : "small",
+                "url" : "https://www.bilibili.com/"
+            },
+            {
+                "title" : "",
+                "icon" : "images/icons/huya.png",
+                "color" : "#fff",
+                "size" : "small",
+                "url" : "https://www.huya.com/"
+            },
+            {
+                "title" : "阿里巴巴矢量图标库",
+                "icon" : "images/icons/albbtb.svg",
+                "color" : "#1E1E1E",
+                "size" : "medium",
+                "url" : "https://www.iconfont.cn/",
+                "tips": "来这里找矢量图标~"
+            },
+            {
+                "title" : "京东",
+                "icon" : "images/icons/jd.png",
+                "color" : "red",
+                "size" : "medium",
+                "url" : "https://www.jd.com/"
+            },
+            {
+                "title" : "豆瓣",
+                "icon" : "images/icons/douban.png",
+                "color" : "#00B51D",
+                "size" : "medium",
+                "url" : "https://www.douban.com/",
+                "tips": "不负好时光"
+            },
+            {
+                "title" : "IT之家",
+                "icon" : "images/icons/itzj.ico",
+                "color" : "#fff",
+                "size" : "medium",
+                "url" : "https://www.ithome.com/",
+                "tips": "爱科技，爱这里"
+            },
+            {
+                "title" : "",
+                "icon" : "images/icons/youku.png",
+                "color" : "#fff",
+                "size" : "small",
+                "url" : "https://www.youku.com/"
+            },
+            {
+                "title" : "",
+                "icon" : "images/icons/iqiyi.png",
+                "color" : "#1afa29",
+                "size" : "small",
+                "url" : "https://www.iqiyi.com/"
+            },
+            {
+                "title" : "网易云音乐",
+                "icon" : "images/icons/wyyyy.png",
+                "color" : "#d81e06",
+                "size" : "medium",
+                "url" : "https://music.163.com/",
+                "tips": "深夜别上去听"
+            },
+            {
+                "title" : "百度网盘",
+                "icon" : "images/icons/bdwp.png",
+                "color" : "#2932E1",
+                "size" : "medium",
+                "url" : "https://pan.baidu.com/"
+            },
+            {
+                "title" : "有道翻译",
+                "icon" : "images/icons/youdao.png",
+                "color" : "#2932E1",
+                "size" : "medium",
+                "url" : "https://fanyi.youdao.com/"
+            },
+            {
+                "title" : "微博",
+                "icon" : "images/icons/weibo.png",
+                "color" : "#ff5900",
+                "size" : "wide",
+                "url" : "https://weibo.com/",
+                "tips": "随时随地发现新鲜事"
+            }
+        ]
+    },
+    "second_tiles": {
+        "title": "工作状态",
+        "width": 2,
+        "items": [
+            {
+                "title": "晚饭倒计时",
+                "type": "countdown",
+                "datetime": "18:00"
+            },
+            {
+                "title" : "问题单",
+                "icon" : "images/icons/bug.png",
+                "color" : "#F75000",
+                "size" : "wide",
+                "url" : "http://www.bug.domain",
+                "news": "5"
+            },
+            {
+                "title" : "Todo",
+                "icon" : "images/icons/todo.png",
+                "color" : "mediumseagreen",
+                "size" : "medium",
+                "url" : "http://www.todo.domain",
+                "news": "9"
+            },
+            {
+                "title" : "会议",
+                "icon" : "images/icons/meeting.png",
+                "color" : "#2932E1",
+                "size" : "medium",
+                "url" : "http://www.meeting.domain",
+                "news": "4"
+            }
+        ]
+    },
+    "lives": {
+        "title": "关键时刻",
+        "width": 2,
+        "images": [
+            "images/lives/ycd1.jpg",
+            "images/lives/ycd2.png",
+            "images/lives/ycd3.webp",
+            "images/lives/ycd4.webp",
+            "images/lives/ycd5.jpg"
+        ]
+    }
+}

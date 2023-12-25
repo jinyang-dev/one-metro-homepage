@@ -33,6 +33,7 @@ body.one_theme_blue #one_header {
 /* override */
 .tiles-grid {
     margin-right: 50px;
+    margin-bottom: 80px;
 }
 
 .tiles-group:before {

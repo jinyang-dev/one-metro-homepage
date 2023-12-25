@@ -66,7 +66,7 @@ $(function () {
             } else {
                 $("#" + id).append(new_tile(tile_id, target_tiles[i].title, target_tiles[i].icon, target_tiles[i].color, target_tiles[i].size, target_tiles[i].url, target_tiles[i].news, target_tiles[i].tips));
             }
-            $('#' + tile_id).fadeIn(1000 + (i * 1000));
+            $('#' + tile_id).fadeIn(1000 + (i * 100));
         }
         $("#" + id).attr("data-group-title", config.title);
         $("#" + id).addClass('size-' + config.width);
